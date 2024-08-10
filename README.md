@@ -4,7 +4,7 @@ Our E-commerce Website offers a seamless shopping experience with a wide range o
 
 
 ## License
-This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License - see the LICENSE file for details ([Click Here](./LICENSE)).
+This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License - see the LICENSE file for details ([Click Here](./LICENSE))
 
 
 ## Installation
